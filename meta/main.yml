@@ -1,7 +1,7 @@
 galaxy_info:
-  author: Andrey Starkov
-  description: install Vector on vm
-  company: student
+  author: Drew
+  description: install Vector
+  company: netology
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
